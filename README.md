@@ -14,7 +14,7 @@ yarn
 
 ## Usage
 
-The program takes a sepa file and dumps the CSV to stdin.
+The program takes a sepa file and dumps the CSV to stdout.
 
 ```
 Usage: index [options] <sepa.xml>
